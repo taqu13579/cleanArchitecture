@@ -1,8 +1,9 @@
 package main;
 
-public class UserCreateInputData {
+public class User {
     public String userName;
-    public UserCreateInputData(String userName) {
+
+    public User(String userName) {
         this.userName = userName;
     }
 }
