@@ -1,7 +1,6 @@
 package main;
 
 import java.util.Date;
-import java.util.DuplicateFormatFlagsException;
 
 public class UserCreateInteractor implements IUserCreateUseCase {
     private IUserRepository userRepository;
